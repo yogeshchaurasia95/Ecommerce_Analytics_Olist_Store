@@ -16,9 +16,8 @@ Welcome to the Olist Store Ecommerce Analytics project! 🚀 As dedicated data e
 - Delved into SQL analysis to interpret the credit_card value, revealing an average review_score of 4.09 and providing insights into customer satisfaction.
 
 **Visualization Mastery with Power BI:**
-- Showcased our team's visualization prowess using Power BI, presenting critical data insights in a visually compelling and easily understandable format.
+- Showcased my visualization prowess using Power BI, presenting critical data insights in a visually compelling and easily understandable format.
 
-Feel free to explore our analyses, delve into the Power BI visualizations, and join us in uncovering the stories hidden within Olist's ecommerce data! 📈🛒
 
 ---
 Project Link - https://drive.google.com/file/d/1IshgmRrBx8qd0BFeUDDs6WQT4NOJf68k/view?usp=sharing
