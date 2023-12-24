@@ -1,6 +1,7 @@
 # Ecommerce_Analytics_Olist_Store
 
 🛍️ **Olist Store Ecommerce Analytics** 📊
+How can Olist Store Ecommerce leverage data insights to enhance weekend sales and improve customer satisfaction?
 
 Welcome to the Olist Store Ecommerce Analytics project! 🚀 As dedicated data enthusiasts, our team embarked on an exploration of Olist's ecommerce data, unraveling insights that fuel strategic decision-making. Here's a glimpse of our journey, predominantly featuring Power BI and SQL:
 
